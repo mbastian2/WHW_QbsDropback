@@ -1,1 +1,1 @@
-This project contains a a Colab Notebook that creates a Sankey Diagram showing what happens (completion, incompletion, sack, etc.) when NFL Quarterbacks dropback during the 2024 NFL season using data from NFL_data_py and FTN Fantasy.
+This project contains a Colab Notebook that creates a Sankey Diagram showing what happens (completion, incompletion, sack, etc.) when NFL Quarterbacks dropback during the 2024 NFL season using data from NFL_data_py and FTN Fantasy.
